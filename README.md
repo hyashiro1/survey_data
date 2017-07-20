@@ -1,3 +1,10 @@
 # survey_data
 
-Nice and simple readme file without clutter.
+New data with encoding issue
+
+New changes
+Updated.
+
+More changes.
+
+Here's a change! Yay!
